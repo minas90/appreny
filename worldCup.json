@@ -1,5 +1,12 @@
 [
    {
+      "name":"Default",
+      "image": "http://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png",
+      "urls":[
+         "http://www.bankoboev.ru/images/MzI0MjYz/Bankoboev.Ru_zolotistyi_futbolnyi_kubok_na_chernom_fone.jpg",
+         "http://www.zastavki.com/pictures/1366x768/2006/FIFA_World_cup_2006__003497_.jpg"
+      ]
+   },{
       "name":"Brazil",
       "image": "http://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png",
       "urls":[
@@ -25,15 +32,19 @@
    },
    {
       "name":"Mexico",
-      "image": "http://hdwallpapersci.com/wp-content/uploads/2013/12/Soccer_wallpapers_183.jpg",
+      "image": "http://4.bp.blogspot.com/-EJAqZG84sKU/UENS0aR204I/AAAAAAAAHjc/GMtrkIOiiSg/s1600/Mexico_El_Tri_National_Football_Team_Stars_Hd_Desktop_Wallpaper_citiesandteams.blogspot.com.jpg",
       "urls":[
-         "http://www.aiowallpaper.com/wp-content/uploads/2013/07/spain-football-team.jpg",
-         "http://www.eurocuppictures.com/data/media/58/spain_euro_cup_football_team.jpg"
+         "http://hdwallpapersci.com/wp-content/uploads/2013/12/Football_wallpapers_111.jpg",
+         "http://www.vivelohoy.com/wp-content/uploads/2012/01/hernandez.jpg",
+         "http://www.egyptindependent.com/sites/default/files/imagecache/highslide_full/photo/2010/05/11/228/lmksyk.jpg.crop_display.jpg",
+         "http://www.mlssoccer.com/sites/league/files/chicharito_0.jpg",
+         "http://static.goal.com/135500/135561.jpg",
+         "http://mundorosa.com.mx/site/wp-content/uploads/2011/06/copaoro3.jpg"
       ]
    },
     {
       "name":"Cameroon",
-      "image": "http://hdwallpapersci.com/wp-content/uploads/2013/12/Soccer_wallpapers_183.jpg",
+      "image": "http://soccerwallpaper.org/wp-content/uploads/2011/07/samuel-etoo-wallpaper-cameroon.jpg",
       "urls":[
          "http://www.aiowallpaper.com/wp-content/uploads/2013/07/spain-football-team.jpg",
          "http://www.eurocuppictures.com/data/media/58/spain_euro_cup_football_team.jpg"
